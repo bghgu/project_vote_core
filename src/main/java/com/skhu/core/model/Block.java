@@ -22,4 +22,5 @@ public class Block {
     private int value;
     //투표 종류
     private int voteId;
+
 }
